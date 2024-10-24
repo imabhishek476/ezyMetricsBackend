@@ -2,7 +2,6 @@
 
 # Environment vars
 
-This project uses the following environment variables:
 As for using this application some required Environment variables data, I have provided in About section of this repository you can use from that:
 
 | Name              | Description                                                               | Default Value                |
