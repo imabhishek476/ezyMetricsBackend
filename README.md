@@ -44,6 +44,6 @@ npm run dev
 | New Leads                        | In this endpoint you get all the leads with different CRM sources             | http://localhost:5000/api/generate/leads      |
 | New Campaigns according to Leads | In this endpoint you get all the campaigns according to leads store in db     | http://localhost:5000/api/marketing/campaigns |
 | Generate PDF                     | In this endpoint you can download the pdf file with all the leads data        | http://localhost:5000/api/report/pdf          |
-| Generate CSV                     | In this endpoint you can download the CSV(excel) file with all the leads data | http://localhost:5000/api/report/pdf          |
+| Generate CSV                     | In this endpoint you can download the CSV(excel) file with all the leads data | http://localhost:5000/api/report/csv          |
 
 As if any Errors found then You will receive email during generating leads
